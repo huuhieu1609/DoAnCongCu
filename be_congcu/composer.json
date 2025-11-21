@@ -10,6 +10,7 @@
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
         "maatwebsite/excel": "^3.1"
+        
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -51,7 +52,8 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": []
+            
+        "dont-discover": []    
         }
     },
     "config": {
@@ -66,3 +68,4 @@
     "minimum-stability": "stable",
     "prefer-stable": true
 }
+
